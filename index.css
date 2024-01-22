@@ -1,0 +1,18 @@
+span{
+    color: orangered;
+}
+li:hover{
+    background-color: orangered;
+    color: aliceblue;
+    border: none;
+    box-shadow: none;
+    
+
+
+}
+input{
+    background-color:rgba(19, 19, 24, 0.03);
+}
+.a{
+    text-decoration: none;
+}
